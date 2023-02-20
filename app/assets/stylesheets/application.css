@@ -13,3 +13,20 @@
  *= require_tree .
  *= require_self
  */
+ .rounded-pink {
+  border-radius: 5px;
+  background-color: rgb(125, 125, 255);
+  text-decoration: none
+};
+
+.container {
+  margin: 50px;
+  background-color: whitesmoke;
+}
+
+
+h1 {
+  padding: 5px;
+  text-justify: auto;
+  color:  orchid;
+}
