@@ -16,13 +16,13 @@
  .rounded-pink {
   border-radius: 5px;
   background-color: rgb(125, 125, 255);
-  text-decoration: none
-};
+  text-decoration: none;
+}
 
-.container {
+/* .container {
   margin: 50px;
   background-color: whitesmoke;
-}
+} */
 
 
 h1 {
